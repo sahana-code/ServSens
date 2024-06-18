@@ -44,7 +44,7 @@ For support-
 Wooden platform 
 
 Sensors-
-SW420 Vibration sensor
+SW420 Vibration sensor 
 
 Other resources
 Arduino UNO
