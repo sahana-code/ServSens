@@ -1,4 +1,4 @@
-# ServeSens
+# ServSens
 
 Idea:
 A device that would project balls to the player and keep a score of the number of returns made back to the other side of the table.
