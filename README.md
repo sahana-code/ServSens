@@ -30,8 +30,8 @@ Materials and machines used:
 Materials- 
 
 For Ball projection-  
-DC motors
-Projection wheels
+2 DC motors
+2 Projection wheels
 Jumper wires
 
 For Ball loading/collection-
@@ -42,7 +42,7 @@ For support-
 Wooden platform 
 
 Sensors-
-SW420 Vibration sensor 
+2 SW420 Vibration sensor 
 
 Other resources
 Arduino UNO
