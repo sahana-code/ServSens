@@ -1,5 +1,5 @@
-# tabletennis
-# tabletennis
+# ServeSense
+
 Idea
 A device that would project balls to the player and keep a score of the number of returns made back to the other side of the table.
 
@@ -8,10 +8,12 @@ Introduce a practice partner for individuals seeking to practice table tennis wi
 
 SDGs in play
 SDG 3 -- Good Health and Well-being
+SDG 9 -- Industry , Innovation and Infrastructure
 
 Constraints
 We found that the component of requiring ball tracking was crucial and difficult to incorporate within such a short time.
 Along with ball tracking, we also need quick technology to identify where and what the ball looked like and predict its trajectory for the racket to hit it on spot. This again seemed difficult to cover in the time period. 
+`````````````````````````
 
 Solutions Brainstorming
 We ensured that the final idea was challenging in some aspects,  but would overall provide a positive objective after the project was complete. While knowing the time/resource limit we would have to work within, our final idea of a table tennis ball projecting machine that also keeps track of returns and score. 
@@ -19,7 +21,7 @@ We ensured that the final idea was challenging in some aspects,  but would overa
 Final Solution
 Name of the project
 
-The WaterMinder
+PaddlePal
 
 
 Design process
@@ -31,7 +33,7 @@ All versions of our codes through the process of prototyping have been attached 
 Materials and machines used
 Materials- 
 
-For Ball projection-
+For Ball projection-  
 DC motors
 Projection wheels
 Jumper wires
@@ -60,7 +62,8 @@ Throughout the project we were able utilise various skills we learnt over the co
 Challenges faced and solutions
 
 The first step we worked on was to test the sensors and motors where we met our first challenge. The piezo electric sensors we first intended to use were unable to detect a movement. To oversome this, we used vibration sensors instead. 
-The next problem we faced was figuring out the power supply. 
+The next problem we faced was 
+Another problem we faced was soldering various wires together, as disconnection between them meant to current flow. For this we kept having to solder the motor wires to create a strong, compact structure. 
 
 Reference links used through prototyping
 https://docs.wcrobotics.org/robotics-engineering/2021/ball-shooter
