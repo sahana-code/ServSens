@@ -13,8 +13,6 @@ SDG 9 -- Industry , Innovation and Infrastructure
 Constraints
 We found that the component of requiring ball tracking was crucial and difficult to incorporate within such a short time.
 Along with ball tracking, we also need quick technology to identify where and what the ball looked like and predict its trajectory for the racket to hit it on spot. This again seemed difficult to cover in the time period. 
-`````````````````````````
-
 Solutions Brainstorming
 We ensured that the final idea was challenging in some aspects,  but would overall provide a positive objective after the project was complete. While knowing the time/resource limit we would have to work within, our final idea of a table tennis ball projecting machine that also keeps track of returns and score. 
 
@@ -68,3 +66,5 @@ Another problem we faced was soldering various wires together, as disconnection 
 Reference links used through prototyping
 https://docs.wcrobotics.org/robotics-engineering/2021/ball-shooter
 https://www.instructables.com/Cat-Ball-Shooter/ 
+
+
