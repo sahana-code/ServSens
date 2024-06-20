@@ -57,7 +57,7 @@ Throughout the project we were able utilise various skills we learnt over the co
 
 Challenges faced and solutions:
 
-The first step we worked on was to test the sensors and motors where we met our first challenge. The piezo electric sensors we first intended to use were unable to detect a movement. To oversome this, we used vibration sensors instead. 
+The first step we worked on was to test the sensors and motors where we met our first challenge. The piezo electric sensors we first intended to use were unable to detect a movement. To overcome this, we used vibration sensors instead. 
 The next problem we faced was 
 Another problem we faced was soldering various wires together, as disconnection between them meant to current flow. For this we kept having to solder the motor wires to create a strong, compact structure. 
 
