@@ -1,4 +1,5 @@
 # ServSens
+![License](https://github.com/user-attachments/assets/e7621f6f-f043-4981-9b14-43aa2c0ea41e)
 
 Idea:
 A device that would project balls to the player and keep a score of the number of returns made back to the other side of the table.
